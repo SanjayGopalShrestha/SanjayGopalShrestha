@@ -4,9 +4,7 @@
 - 📫 Reach me via: www.linkedin.com/in/sanjay-gopal-shrestha-1a3112213
 - [1.Find equilibrium index of an array](http://www.techiedelight.com/find-equilibrium-index-array/)
 - [500+ Solutions of Data Structure and Algorithm](https://github.com/bollwarm/DataStructuresAlgorithms?tab=readme-ov-file)
-[Syllabus]
-(Unit1: Introduction to Object Oriented Programming (3Hrs.)
-Overview of structured programming approach,  Object oriented programming approach, Characteristics of object oriented languages)
+
 
 
 
